@@ -12,10 +12,10 @@ namespace MintaMZ
         static void Main(string[] args)
         {
             //fájl beolvasás
-            File.ReadAllLines("forras.csv");
-
+            string[] sorok = File.ReadAllLines("forras.csv");
 
             //adatok száma
+            int N = sorok.Length;//ha van fejléc, akkor - 1
 
             //legtöbb vmi
 
