@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,6 +12,8 @@ namespace MintaMZ
         static void Main(string[] args)
         {
             //fájl beolvasás
+            File.ReadAllLines("forras.csv");
+
 
             //adatok száma
 

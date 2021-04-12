@@ -1,0 +1,7 @@
+C:\Users\Péter\source\repos\Ruander\2021\0412\MintaMZ\MintaMZ\bin\Debug\MintaMZ.exe.config
+C:\Users\Péter\source\repos\Ruander\2021\0412\MintaMZ\MintaMZ\bin\Debug\MintaMZ.exe
+C:\Users\Péter\source\repos\Ruander\2021\0412\MintaMZ\MintaMZ\bin\Debug\MintaMZ.pdb
+C:\Users\Péter\source\repos\Ruander\2021\0412\MintaMZ\MintaMZ\obj\Debug\MintaMZ.csprojAssemblyReference.cache
+C:\Users\Péter\source\repos\Ruander\2021\0412\MintaMZ\MintaMZ\obj\Debug\MintaMZ.csproj.CoreCompileInputs.cache
+C:\Users\Péter\source\repos\Ruander\2021\0412\MintaMZ\MintaMZ\obj\Debug\MintaMZ.exe
+C:\Users\Péter\source\repos\Ruander\2021\0412\MintaMZ\MintaMZ\obj\Debug\MintaMZ.pdb
